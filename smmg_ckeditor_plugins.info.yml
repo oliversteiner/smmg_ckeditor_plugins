@@ -1,0 +1,7 @@
+name: 'Small Messages - CKEditor Plugins'
+type: module
+description: 'SMMG CKEditor Plugins'
+core: 8.x
+package: 'Small Messages'
+dependencies:
+  - ckeditor

@@ -1,0 +1,13 @@
+{
+    "name": "smmg_ckeditor_plugins",
+    "type": "drupal-module",
+    "description": "Small Messages - CKEditor Plugins",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/smmg_ckeditor_plugins",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/smmg_ckeditor_plugins",
+        "source": "http://cgit.drupalcode.org/smmg_ckeditor_plugins",
+    },
+}
